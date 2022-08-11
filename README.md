@@ -14,10 +14,13 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 ## 🧠 What i will learn
 
-- Configuração do jest em projecto react com typescript;
-- Testes unitários;
-- Testes de integração;
-- Testes end-to-end;
-- Testes DOM (debug);
-- Disparar eventos;
-- Testes com acções asyncronas.
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
