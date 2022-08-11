@@ -4,9 +4,8 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 ## 💻 Programming Languages
 
-<ul>
-  <li> Javascript </li>
-</ul>
+- Javascript
+
 
 # 📚 Bibliotecas e frameworks
 
