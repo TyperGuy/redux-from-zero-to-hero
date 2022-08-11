@@ -16,7 +16,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 
 - [X] Redux Workflow
-- [x] Venus
+- [X] Assync Actions
 - [x] Earth (Orbit/Moon)
 - [x] Mars
 - [ ] Jupiter
