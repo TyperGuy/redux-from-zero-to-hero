@@ -10,7 +10,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 ## 📚 Libraries & frameworks
 
 - ReactJS
-- Testing Library (react, user-event and jest-dom);
+- Redux
 - SWC (core and jest).
 
 # 🧠Aprendizado
