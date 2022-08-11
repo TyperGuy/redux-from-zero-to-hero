@@ -29,4 +29,5 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [ ] Logger Middlewere
 - [ ] Redux Devetool extension
 - [ ] Action Payload
+- [ ] MapStateToProps
 
