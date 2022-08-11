@@ -24,8 +24,8 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [x] Middlewere
 - [X] Redux-Thunk Middlewere
 - [ ] React-Redux
-- [ ] useSellector Hook
-- [ ] Comet Haley
+- [ ] useSelector Hook
+- [ ] useDispatch Hook
 - [ ] Comet Haley
 - [ ] Comet Haley
 
