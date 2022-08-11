@@ -7,7 +7,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - Javascript
 
 
-# 📚 Bibliotecas e frameworks
+## 📚 Libraries & frameworks
 
 - Jest;
 - Testing Library (react, user-event and jest-dom);
