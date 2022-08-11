@@ -27,5 +27,5 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [ ] useSelector Hook
 - [ ] useDispatch Hook
 - [ ] Logger Middlewere
-- [ ] Comet Haley
+- [ ] Redux Devetool extension
 
