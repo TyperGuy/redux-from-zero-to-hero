@@ -9,9 +9,8 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 ## 📚 Libraries & frameworks
 
-- ReactJS
-- Redux
-- SWC (core and jest).
+- React.JS
+- Redux.JS
 
 # 🧠Aprendizado
 
