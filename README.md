@@ -12,7 +12,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - React.JS
 - Redux.JS
 
-# 🧠Aprendizado
+## 🧠 What i will learn
 
 - Configuração do jest em projecto react com typescript;
 - Testes unitários;
