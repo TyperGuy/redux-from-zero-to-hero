@@ -23,7 +23,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [x] Cobinate Multiple Reducers
 - [x] Middlewere
 - [X] Redux-Thunk Middlewere
-- [ ] Comet Haley
+- [ ] React-Redux
 - [ ] Alguma coisa
 - [ ] Comet Haley
 - [ ] Comet Haley
