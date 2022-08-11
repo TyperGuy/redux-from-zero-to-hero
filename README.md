@@ -17,7 +17,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 - [X] Redux Workflow
 - [X] Assync Actions
-- [x] Earth (Orbit/Moon)
+- [x] Cobinate Multiple Reducers
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
