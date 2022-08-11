@@ -15,7 +15,7 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 ## 🧠 What i will learn
 
 
-- [ ] Redux Workflow
+- [X] Redux Workflow
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
