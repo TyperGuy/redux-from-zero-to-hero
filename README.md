@@ -16,11 +16,11 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 
 
 - [X] Redux Workflow
+- [X] Actions
+- [X] Reducers
+- [X] Stores
 - [X] Assync Actions
 - [x] Cobinate Multiple Reducers
 - [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
