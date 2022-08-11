@@ -1,6 +1,6 @@
 # redux-from-zero-to-hero
 
-Uma aplicação Reactjs feita para aprimorar os meus conhecimentos sobre desenvolvimento dirigido a testes (TDD).
+A simple project that i use to learn and refresh all my knowledge about Redux library
 
 # 💻 Tecnologias
 
