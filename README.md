@@ -21,6 +21,6 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [X] Stores
 - [X] Assync Actions
 - [x] Cobinate Multiple Reducers
-- [x] Mars
+- [x] Middlewere
 - [ ] Neptune
 - [ ] Comet Haley
