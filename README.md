@@ -22,5 +22,5 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [X] Assync Actions
 - [x] Cobinate Multiple Reducers
 - [x] Middlewere
-- [ ] Neptune
+- [X] Redux-Thunk Middlewere
 - [ ] Comet Haley
