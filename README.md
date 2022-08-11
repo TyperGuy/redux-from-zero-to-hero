@@ -26,6 +26,6 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [ ] React-Redux
 - [ ] useSelector Hook
 - [ ] useDispatch Hook
-- [ ] Comet Haley
+- [ ] Logger Middlewere
 - [ ] Comet Haley
 
