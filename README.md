@@ -2,7 +2,7 @@
 
 A simple project that i use to learn and refresh all my knowledge about Redux library
 
-# 💻 Tecnologias
+# 💻 Programming Languages
 
 - Reactjs
 - Typescript
