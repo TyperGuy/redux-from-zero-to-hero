@@ -28,4 +28,5 @@ A simple project that i use to learn and refresh all my knowledge about Redux li
 - [ ] useDispatch Hook
 - [ ] Logger Middlewere
 - [ ] Redux Devetool extension
+- [ ] Action Payload
 
